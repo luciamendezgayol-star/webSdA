@@ -1,0 +1,1080 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260426182430I9PFRB</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260426182430SGSC3Z</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SdA Conviviendo con microorganismos</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Lucía Méndez Gayol</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777220502656</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1777216120886-5g5x7apr8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 1: Actividad inicial</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1: Actividad inicial</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777216120886-5g5x7apr8</odePageId>
+      <odeBlockId>block-1777216126249-qhygttoxe</odeBlockId>
+      <blockName>Lluvia de ideas</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777216120886-5g5x7apr8</odePageId>
+          <odeBlockId>block-1777216126249-qhygttoxe</odeBlockId>
+          <odeIdeviceId>idevice-1777216126243-zaf4cni6p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>15:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Gran grupo</dd></div></dl><p>Para empezar esta situación de aprendizaje vamos a desarrollar una lluvia de ideas inicial anotando los conceptos relacionados con el tema que conocéis y apuntándolos en pizarra. Así haremos una puesta en común y repaso rápido de los contenidos del tema que ya hemos visto anteriormente.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777216126243-zaf4cni6p","textInfoDurationInput":"15:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Gran grupo","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>15:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Gran grupo</dd></div></dl><p>Para empezar esta situación de aprendizaje vamos a desarrollar una lluvia de ideas inicial anotando los conceptos relacionados con el tema que conocéis y apuntándolos en pizarra. Así haremos una puesta en común y repaso rápido de los contenidos del tema que ya hemos visto anteriormente.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777216120886-5g5x7apr8</odePageId>
+      <odeBlockId>block-1777216243605-fbxsua4am</odeBlockId>
+      <blockName>Mapa mental</blockName>
+      <iconName>stop</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777216120886-5g5x7apr8</odePageId>
+          <odeBlockId>block-1777216243605-fbxsua4am</odeBlockId>
+          <odeIdeviceId>idevice-1777216243602-4t5arnsvb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>30:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Individual</dd></div></dl><p>Ahora vas a realizar un mapa mental sobre los principales conceptos que han ido saliendo en la lluvia de ideas anterior. Por parejas o individualmente, realizaréis esta actividad indicando las principales características de cada grupo de microorganismos (Reinos) y un par de ejemplos de cada reino de especies beneficiosas y perjudiciales.</p>
+<p>El mapa mental podéis realizarlo a mano en un folio o utilizando alguna aplicación digital. La entrega se realizará a través de la tarea programada en Teams a tal efecto.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777216243602-4t5arnsvb","textInfoDurationInput":"30:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Individual","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>30:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Individual</dd></div></dl><p>Ahora vas a realizar un mapa mental sobre los principales conceptos que han ido saliendo en la lluvia de ideas anterior. Por parejas o individualmente, realizaréis esta actividad indicando las principales características de cada grupo de microorganismos (Reinos) y un par de ejemplos de cada reino de especies beneficiosas y perjudiciales.</p>\n<p>El mapa mental podéis realizarlo a mano en un folio o utilizando alguna aplicación digital. La entrega se realizará a través de la tarea programada en Teams a tal efecto.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777216336122-grwrv7s5t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Diccionario de términos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Diccionario de términos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777216336122-grwrv7s5t</odePageId>
+      <odeBlockId>block-1777216349051-jbv3nxj79</odeBlockId>
+      <blockName>Términos básicos para poder realizar las actividades</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777216336122-grwrv7s5t</odePageId>
+          <odeBlockId>block-1777216349051-jbv3nxj79</odeBlockId>
+          <odeIdeviceId>idevice-1777216349049-osy1skbk0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Aerobio:</strong> Organismo que requiere oxígeno para su metabolismo.</p>
+<p><strong>Anaerobio:</strong> Organismo que no necesita oxígeno; puede vivir sin él.</p>
+<p><strong>Anticuerpo:</strong> Proteína producida por el organismo en respuesta a un antígeno.</p>
+<p><strong>Antígeno:</strong> Sustancia que provoca una respuesta inmunitaria, como la producción de anticuerpos.</p>
+<p><strong>Antibiótico:</strong> Fármaco que mata o inhibe el crecimiento de las bacterias.</p>
+<p><strong>Bacteria:</strong> Microorganismo unicelular procariota.</p>
+<p><strong>Cápsula:</strong> Capa externa viscosa presente en algunas bacterias.</p>
+<p><strong>Cepa: </strong>Variedad de un microorganismo.</p>
+<p><strong>Colonia:</strong> Grupo visible de microorganismos, generalmente derivados de una sola célula, en una placa de cultivo.</p>
+<p><strong>Cultivo: </strong>Crecimiento de microorganismos en un medio de laboratorio.</p>
+<p><strong>Enzima: </strong>Proteína que cataliza una reacción química específica.</p>
+<p><strong>Esterilización: </strong>Proceso para eliminar todos los microorganismos de un objeto o medio.</p>
+<p><strong>Hongo:</strong> Organismo eucariota uni o pluricelular cuyas células tienen una pared celular quitinosa, como levaduras o mohos.</p>
+<p><strong>Microorganismo:</strong> Cualquier organismo vivo demasiado pequeño para ser visto a simple vista.</p>
+<p><strong>Patógeno: </strong>Microorganismo que causa una enfermedad.</p>
+<p><strong>Protozoo: </strong>Microorganismo eucariota unicelular.</p>
+<p><strong>Virus: </strong>Agente infeccioso que se replica dentro de las células de organismos vivos y que es un parásito intracelular obligado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777216349049-osy1skbk0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Aerobio:</strong> Organismo que requiere oxígeno para su metabolismo.</p>\n<p><strong>Anaerobio:</strong> Organismo que no necesita oxígeno; puede vivir sin él.</p>\n<p><strong>Anticuerpo:</strong> Proteína producida por el organismo en respuesta a un antígeno.</p>\n<p><strong>Antígeno:</strong> Sustancia que provoca una respuesta inmunitaria, como la producción de anticuerpos.</p>\n<p><strong>Antibiótico:</strong> Fármaco que mata o inhibe el crecimiento de las bacterias.</p>\n<p><strong>Bacteria:</strong> Microorganismo unicelular procariota.</p>\n<p><strong>Cápsula:</strong> Capa externa viscosa presente en algunas bacterias.</p>\n<p><strong>Cepa: </strong>Variedad de un microorganismo.</p>\n<p><strong>Colonia:</strong> Grupo visible de microorganismos, generalmente derivados de una sola célula, en una placa de cultivo.</p>\n<p><strong>Cultivo: </strong>Crecimiento de microorganismos en un medio de laboratorio.</p>\n<p><strong>Enzima: </strong>Proteína que cataliza una reacción química específica.</p>\n<p><strong>Esterilización: </strong>Proceso para eliminar todos los microorganismos de un objeto o medio.</p>\n<p><strong>Hongo:</strong> Organismo eucariota uni o pluricelular cuyas células tienen una pared celular quitinosa, como levaduras o mohos.</p>\n<p><strong>Microorganismo:</strong> Cualquier organismo vivo demasiado pequeño para ser visto a simple vista.</p>\n<p><strong>Patógeno: </strong>Microorganismo que causa una enfermedad.</p>\n<p><strong>Protozoo: </strong>Microorganismo eucariota unicelular.</p>\n<p><strong>Virus: </strong>Agente infeccioso que se replica dentro de las células de organismos vivos y que es un parásito intracelular obligado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777216472537-11zodct94</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 2: Investigación guiada</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2: Investigación guiada</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777216472537-11zodct94</odePageId>
+      <odeBlockId>block-1777216484818-rnhpq4u21</odeBlockId>
+      <blockName>Investigación guiada</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777216472537-11zodct94</odePageId>
+          <odeBlockId>block-1777216484818-rnhpq4u21</odeBlockId>
+          <odeIdeviceId>idevice-1777216484815-jcfmeatgs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>55:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Grupos de 3</dd></div></dl><p>Vais a realizar una investigación sobre el grupo de microorganismos que hayáis seleccionado utilizando para ello páginas web fiables. </p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777216484815-jcfmeatgs","textInfoDurationInput":"55:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Grupos de 3","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>55:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Grupos de 3</dd></div></dl><p>Vais a realizar una investigación sobre el grupo de microorganismos que hayáis seleccionado utilizando para ello páginas web fiables. </p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777216540162-ufph4kyc6</odePageId>
+  <odeParentPageId>page-1777216472537-11zodct94</odeParentPageId>
+  <pageName>Listado de páginas web fiables</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Listado de páginas web fiables</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777216540162-ufph4kyc6</odePageId>
+      <odeBlockId>block-1777216551909-tty7v45xy</odeBlockId>
+      <blockName>Algunas páginas web que podéis consultar</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777216540162-ufph4kyc6</odePageId>
+          <odeBlockId>block-1777216551909-tty7v45xy</odeBlockId>
+          <odeIdeviceId>idevice-1777216551907-m1el8y3if</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>60:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Grupos de 3</dd></div></dl><p>A continuación tenéis un listado de algunas que podéis utilizar, pero vosotros podéis usar otras que os parezcan interesantes, siempre que contengan información fidedigna.</p>
+<ul>
+<li><a href="https://microbioblog.es/" title="">MicroBIOblog</a></li>
+<li><a href="https://soclalluna.com/2o-bachillerato/2obach/bloque-iv-fisiologia-celular/ud-09-los-microorganismos/" title="">Blog Biología y Geología ESO y bachillerato</a></li>
+<li><a href="https://www.colegiosanbuenaventura.es/wp-content/uploads/2020/01/Tema-13-Microorganismos-y-formas-acelulares_compressed.pdf" title="">Colegio San Buenaventura</a></li>
+<li><a href="https://www.iesjuangris.com/images/Biolog%C3%ADa_T8_MICROBIOLOG%C3%8DA.pdf" title="">IES Juan Gris</a></li>
+</ul>
+<p><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777216551907-m1el8y3if","textInfoDurationInput":"60:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Grupos de 3","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>60:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Grupos de 3</dd></div></dl><p>A continuación tenéis un listado de algunas que podéis utilizar, pero vosotros podéis usar otras que os parezcan interesantes, siempre que contengan información fidedigna.</p>\n<ul>\n<li><a href=\"https://microbioblog.es/\" title=\"\">MicroBIOblog</a></li>\n<li><a href=\"https://soclalluna.com/2o-bachillerato/2obach/bloque-iv-fisiologia-celular/ud-09-los-microorganismos/\" title=\"\">Blog Biología y Geología ESO y bachillerato</a></li>\n<li><a href=\"https://www.colegiosanbuenaventura.es/wp-content/uploads/2020/01/Tema-13-Microorganismos-y-formas-acelulares_compressed.pdf\" title=\"\">Colegio San Buenaventura</a></li>\n<li><a href=\"https://www.iesjuangris.com/images/Biolog%C3%ADa_T8_MICROBIOLOG%C3%8DA.pdf\" title=\"\">IES Juan Gris</a></li>\n</ul>\n<p><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777216599829-72qmu8vok</odePageId>
+  <odeParentPageId>page-1777216472537-11zodct94</odeParentPageId>
+  <pageName>Vídeos sobre microorganismos</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vídeos sobre microorganismos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777216599829-72qmu8vok</odePageId>
+      <odeBlockId>block-1777216856024-yhlcej7te</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777216599829-72qmu8vok</odePageId>
+          <odeBlockId>block-1777216856024-yhlcej7te</odeBlockId>
+          <odeIdeviceId>idevice-1777216856021-0mt1s1llp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Debéis visualizar estos vídeos de BioESOSfera sobre los microorganismos para tener presentes algunos aspecto básicos:</p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/zjXGe5QAI9Q?si=xXQiSq7U1PyrN2AL" allowfullscreen="allowfullscreen"></iframe></p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/ydrxHBKXW4M?si=eMyLPfxDnhypxBDn" allowfullscreen="allowfullscreen"></iframe></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777216856021-0mt1s1llp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Debéis visualizar estos vídeos de BioESOSfera sobre los microorganismos para tener presentes algunos aspecto básicos:</p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/zjXGe5QAI9Q?si=xXQiSq7U1PyrN2AL\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/ydrxHBKXW4M?si=eMyLPfxDnhypxBDn\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777217095561-ik9ikf6qs</odePageId>
+  <odeParentPageId>page-1777216472537-11zodct94</odeParentPageId>
+  <pageName>Contenidos mínimos de la investigación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Contenidos mínimos de la investigación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777217095561-ik9ikf6qs</odePageId>
+      <odeBlockId>block-1777217107610-h11y405el</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777217095561-ik9ikf6qs</odePageId>
+          <odeBlockId>block-1777217107610-h11y405el</odeBlockId>
+          <odeIdeviceId>idevice-1777217107608-zz7v6wij1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Debéis crear un documento de word o presentación digital en el que se incluya la información que habéis buscado para esta actividad, referente al grupo de microorganismos que habéis elegido. El archivo creado se entregará por Teams en la tarea que se creará para esta actividad.</p>
+<p>Los contenidos mínimos de vuestro trabajo deben ser:</p>
+<ol style="list-style-type: lower-alpha;">
+<li>Características generales del grupo de microorganismos.</li>
+<li>Ejemplo de especies características.</li>
+<li>Impacto de este grupo para la especie humana:
+<ul>
+<li>Importancia ecológica. Especies representativas.</li>
+<li>Perjuicios que causan al ser humano. Especies representativas.</li>
+<li>Beneficios que proporcionan al ser humano. Especies representativas.</li>
+</ul>
+</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777217107608-zz7v6wij1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Debéis crear un documento de word o presentación digital en el que se incluya la información que habéis buscado para esta actividad, referente al grupo de microorganismos que habéis elegido. El archivo creado se entregará por Teams en la tarea que se creará para esta actividad.</p>\n<p>Los contenidos mínimos de vuestro trabajo deben ser:</p>\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Características generales del grupo de microorganismos.</li>\n<li>Ejemplo de especies características.</li>\n<li>Impacto de este grupo para la especie humana:\n<ul>\n<li>Importancia ecológica. Especies representativas.</li>\n<li>Perjuicios que causan al ser humano. Especies representativas.</li>\n<li>Beneficios que proporcionan al ser humano. Especies representativas.</li>\n</ul>\n</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777217337730-aukodbxba</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 3: Crear una infografía interactiva</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 3: Crear una infografía interactiva</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777217337730-aukodbxba</odePageId>
+      <odeBlockId>block-1777217355969-0tyx2uhac</odeBlockId>
+      <blockName>Infografía</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777217337730-aukodbxba</odePageId>
+          <odeBlockId>block-1777217355969-0tyx2uhac</odeBlockId>
+          <odeIdeviceId>idevice-1777217355966-nkxbix7y7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>55:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Grupos de 3</dd></div></dl><p>En esta sesión debéis crear una infografía interactiva sobre el grupo de microorganismos que os ha tocado investigar.</p>
+<p>Con la información recabada en la sesión anterior y utilizando Canva o Genially, debéis crear una infografía con al menos un elemento interactivo (enlace o animación). En esta infografía deben estar representados ejemplos de especies beneficiosas y perjudiciales de este grupos, con imágenes y problemas o beneficios que nos causan.</p>
+<p>La infografía se entregará en la tarea de Teams correspondiente.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777217355966-nkxbix7y7","textInfoDurationInput":"55:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Grupos de 3","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>55:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Grupos de 3</dd></div></dl><p>En esta sesión debéis crear una infografía interactiva sobre el grupo de microorganismos que os ha tocado investigar.</p>\n<p>Con la información recabada en la sesión anterior y utilizando Canva o Genially, debéis crear una infografía con al menos un elemento interactivo (enlace o animación). En esta infografía deben estar representados ejemplos de especies beneficiosas y perjudiciales de este grupos, con imágenes y problemas o beneficios que nos causan.</p>\n<p>La infografía se entregará en la tarea de Teams correspondiente.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777217425861-i40pjd5s5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Juegos repaso</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Juegos repaso</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777217425861-i40pjd5s5</odePageId>
+      <odeBlockId>block-1777217480275-hojtdhhit</odeBlockId>
+      <blockName>Crucigrama</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777217425861-i40pjd5s5</odePageId>
+          <odeBlockId>block-1777217480275-hojtdhhit</odeBlockId>
+          <odeIdeviceId>idevice-1777217480271-mrjvfneov</odeIdeviceId>
+          <odeIdeviceTypeName>crossword</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="crucigrama-IDevice">
+       <div class="game-evaluation-ids js-hidden" data-id="idevice-1777217480271-mrjvfneov" data-evaluationb="false" data-evaluationid="46e69c71-bb35-4a11-b035-60cb793fc658"></div>
+            <div class="crucigrama-version js-hidden">1</div>
+            <div class="crucigrama-feedback-game"></div>
+            <div class="crucigrama-instructions gameQP-instructions"><p>Completa el siguiente crucigrama.</p></div>
+            <div class="crucigrama-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%E0%E7%F1%FB%F5%E0%F3%FF%F3%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%D1%FD%FF%E2%FE%F7%E6%F3%B2%F7%FE%B2%E1%FB%F5%E7%FB%F7%FC%E6%F7%B2%F1%E0%E7%F1%FB%F5%E0%F3%FF%F3%BC%AE%BD%E2%AC%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E5%FD%E0%F6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E5%FD%E0%F6%B0%A8%B0%C4%FB%E0%E7%E1%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%DF%FB%F1%E0%FD%FD%E0%F5%F3%FC%FB%E1%FF%FD%B2%F3%F1%F7%FE%E7%FE%F3%E0%BE%B2%E2%F3%E0s%E1%FB%E6%FD%B2%FB%FC%E6%E0%F3%F1%F7%FE%E7%FE%F3%E0%B2%FD%F0%FE%FB%F5%F3%F6%FD%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D1%FD%FC%E6%F3%F5%FB%FD%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C6%E0%F3%FC%E1%FF%FB%E1%FBa%FC%B2%F6%F7%B2%E2%F3%E6a%F5%F7%FC%FD%E1%B2%F6%F7%B2%E7%FC%B2%FB%FC%F6%FB%E4%FB%F6%E7%FD%B2%F7%FC%F4%F7%E0%FF%FD%B2%F3%B2%E7%FC%FD%B2%E1%F3%FC%FD%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%DB%FC%F4%F7%F1%F1%FBa%FC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C2%E0%FD%F1%F7%E1%FD%B2%F6%F7%B2%F7%FC%E6%E0%F3%F6%F3%B2%F6%F7%B2%E7%FC%B2%FF%FB%F1%E0%FD%FD%E0%F5%F3%FC%FB%E1%FF%FD%B2%E2%F3%E6a%F5%F7%FC%FD%B2%F7%FC%B2%E7%FC%B2%FB%FC%F6%FB%E4%FB%F6%E7%FD%B2%E1%F3%FC%FD%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%DA%FD%FC%F5%FD%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%DF%FB%F1%E0%FD%FD%E0%F5%F3%FC%FB%E1%FF%FD%B2%E7%FC%FB%BF%B2%FD%B2%E2%FE%E7%E0%FB%F1%F7%FE%E7%FE%F3%E0%B2%F1%FD%FC%B2%E2%F3%E0%F7%F6%B2%E3%E7%FB%E6%FB%FC%FD%E1%F3%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%C2%F3%FC%F6%F7%FF%FB%F3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D7%FC%F4%F7%E0%FF%F7%F6%F3%F6%B2%FB%FC%F4%F7%F1%F1%FB%FD%E1%F3%B2%E3%E7%F7%B2%F3%F4%F7%F1%E6%F3%B2%E1%FB%FF%E7%FE%E6s%FC%F7%F3%FF%F7%FC%E6%F7%B2%F3%B2%E7%FC%F3%B2%F5%E0%F3%FC%B2%F1%F3%FC%E6%FB%F6%F3%F6%B2%F6%F7%B2%FB%FC%F6%FB%E4%FB%F6%E7%FD%E1%B2%F3%B2%FC%FB%E4%F7%FE%B2%FF%E7%FC%F6%FB%F3%FE%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D0%F3%F1%E6%F7%E0%FB%F3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%DF%FB%F1%E0%FD%FD%E0%F5%F3%FC%FB%E1%FF%FD%B2%F1%FD%FC%B2%F1%7B%FE%E7%FE%F3%B2%E2%E0%FD%F1%F3%E0%FB%FD%E6%F3%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D1%F3%E2%E1%FB%F6%F7%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D7%FC%E4%E7%F7%FE%E6%F3%B2%E2%E0%FD%E6%F7%FB%F1%F3%B2%E3%E7%F7%B2%F7%FC%F1%FB%F7%E0%E0%F3%B2%F7%FE%B2%FF%F3%E6%F7%E0%FB%F3%FE%B2%F5%F7%FC%7B%E6%FB%F1%FD%B2%F6%F7%FE%B2%E4%FB%E0%E7%E1%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D1%FD%FC%E6%F7%FC%F1%FBa%FC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%DF%F7%F6%FB%F6%F3%E1%B2%E3%E7%F7%B2%E1%F7%B2%E6%FD%FF%F3%FC%B2%E2%F3%E0%F3%B2%F6%F7%E6%F7%FC%F7%E0%B2%FE%FD%E1%B2%F1%FD%FC%E6%F3%F5%FB%FD%E1%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D1%FD%FC%E6%F7%FC%F1%FBa%FC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%DF%F7%F6%FB%F6%F3%E1%B2%E3%E7%F7%B2%E1%F7%B2%E6%FD%FF%F3%FC%B2%E2%F3%E0%F3%B2%F6%F7%E6%F7%FC%F7%E0%B2%FE%FD%E1%B2%F1%FD%FC%E6%F3%F5%FB%FD%E1%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%C2%E0%FD%E6%FD%E8%FD%FD%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%DF%FB%F1%E0%FD%FD%E0%F5%F3%FC%FB%E1%FF%FD%B2%E7%FC%FB%F1%F7%FE%E7%FE%F3%E0%B2%FA%F7%E6%F7%E0a%E6%E0%FD%F4%FD%B2%E1%FD%FC%B2%E2%F3%E0%F7%F6%B2%F1%F7%FE%E7%FE%F3%E0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%FA%F3%E1%D0%F3%F1%F9%B0%A8%E6%E0%E7%F7%BE%B0%E7%E0%FE%D0%F3%F1%F9%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%A7%F0%A1%A0%AA%A2%A1%A3%BF%F1%A7%F4%A5%BF%A6%A0%A5%F7%BF%A3%F4%A0%A2%BF%A3%A6%A0%A6%A4%F1%A1%AA%F4%A4%A0%A0%BC%E2%FC%F5%B0%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F1%F3%E1%F7%C1%F7%FC%E1%FB%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E6%FB%FE%F6%F7%B0%A8%E6%E0%E7%F7%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A0%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%A6%A4%F7%A4%AB%F1%A5%A3%BF%F0%F0%A1%A7%BF%A6%F3%A3%A3%BF%F0%A2%A1%A7%BF%A4%A2%F1%F0%A5%AB%A1%F4%F1%A4%A7%AA%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%A3%A2%A2%B0%BE%B0%F6%FB%F4%F4%FB%F1%E7%FE%E6%EB%B0%A8%B0%A3%A2%A2%B0%BE%B0%E6%FB%FF%F7%B0%A8%B0%A2%B0%BE%B0%F3%E7%E6%FA%FD%E0%D0%F3%F1%F9%DB%FF%F3%F5%F7%B0%A8%B0%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%A5%A0%A3%A5%A6%AA%A2%A0%A5%A3%BF%FF%E0%F8%E4%F4%FC%F7%FD%E4%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%F1%F7%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%DB%FC%F6%FB%F1%F3%E6%F7%C5%FD%E0%F6%B0%A8%B0%C2%E0%FD%E2%FD%E0%F1%FB%FD%FC%F3%B2%E7%FC%F3%B2%E2%F3%FE%F3%F0%E0%F3%B2%FD%B2%F7%EA%E2%E0%F7%E1%FBa%FC%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C0%F7%E3%E7%FB%E0%F7%F6%D3%F1%F1%F7%E1%E1%D9%F7%EB%B0%A8%B0%D7%E1%B2%FC%F7%F1%F7%E1%F3%E0%FB%FD%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%DE%FD%FD%F9%FB%FC%F5%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E3%E7%F7%B2%F7%E1%E6%F3%F0%F3%B2%F0%E7%E1%F1%F3%FC%F6%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%DE%7F%FF%FB%E6%F7%B2%F6%F7%B2%E6%FB%F7%FF%E2%FD%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%F5%E1%D3%FE%FE%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B03%D1%FD%FF%E2%FE%F7%E6%F3%F6%F3%E1%B2%FE%F3%E1%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%C5%E0%FD%E6%F7%B0%A8%B0%D7%E1%F1%E0%FB%F0%F7%B2%FE%F3%B2%E2%F3%FE%F3%F0%E0%F3%B2%F1%FD%E0%E0%F7%F1%E6%F3%B2%EB%B2%E2%E7%FE%E1%F3%B2%F7%FC%B2%C0%F7%E1%E2%FD%FC%F6%F7%E0%BC%B2%C1%FB%B2%F6%E7%F6%F3%E1%BE%B2%E2%E7%FE%E1%F3%B2%F7%FC%B2%C1%F7%F5%E7%FB%E0%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%DE%FD%F3%F6%FB%FC%F5%B0%A8%B0%D1%F3%E0%F5%F3%FC%F6%FD%BC%B2%D7%E1%E2%F7%E0%F7%BE%B2%E2%FD%E0%B2%F4%F3%E4%FD%E0%BC%BC%BC%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%D1%FD%E0%E0%F7%F1%E6%B0%A8%B0%D1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%DB%FC%F1%FD%E0%E0%F7%F1%E6%B0%A8%B0%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%E0%E7%F1%FB%F5%E0%F3%FF%F3%B0%BE%B0%FF%E1%F5%D1%FA%F7%F1%F9%B0%A8%B0%D1%FD%FF%E2%E0%FD%F0%F3%E0%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%B2%FE%F3%E1%B2%E1%FD%FE%E7%F1%FB%FD%FC%F7%E1%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B0%D7%FE%B2%F8%E7%F7%F5%FD%B2%FA%F3%B2%E6%F7%E0%FF%FB%FC%F3%F6%FD%BC%B2%C6%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F7%E1%B2%B7%E1%BC%B2%D3%F1%FB%F7%E0%E6%FD%E1%A8%B2%B7%E1%B2%F6%F7%B2%B7%E1%BC%B0%BE%B0%FF%E1%F5%C1%F7%FE%F7%F1%E6%C5%FD%E0%F6%B0%A8%B0%DA%F3%E8%B2%F1%FE%FB%F1%B2%F7%FC%B2%F7%FE%B2%F1%E7%F3%F6%E0%F3%F6%FD%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%F3%FE%F3%F0%E0%F3%B2%E2%F3%E0%F3%B2%E4%F7%E0%B2%FE%F3%B2%F6%F7%F4%FB%FC%FB%F1%FBa%FC%B0%BE%B0%FF%E1%F5%DA%FD%E0%FB%E8%FD%FC%E6%F3%FE%E1%B0%A8%B0%DA%FD%E0%FB%E8%FD%FC%E6%F3%FE%F7%E1%B0%BE%B0%FF%E1%F5%C4%F7%E0%E6%FB%F1%F3%FE%E1%B0%A8%B0%C4%F7%E0%E6%FB%F1%F3%FE%F7%E1%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%D6%F7%F4%FB%FC%FB%E6%FB%FD%FC%E1%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%BD%FD%F1%E7%FE%E6%F3%E0%B2%F6%F7%F4%FB%FC%FB%F1%FB%FD%FC%F7%E1%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%D0%F3%F1%F9%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%BD%FD%F1%E7%FE%E6%F3%E0%B2%FB%FF%F3%F5%F7%FC%B2%F6%F7%B2%F4%FD%FC%F6%FD%B0%BE%B0%FF%E1%F5%C1%FD%FE%E7%E6%FB%FD%FC%C5%FD%E0%F6%B0%A8%B0%C2%F3%FE%F3%F0%E0%F3%B0%EF%EF</div>
+            
+            
+            <a href="{{context_path}}/content/resources/fondo crucigrama.png" class="js-hidden crucigrama-LinkBack" alt="Back" />Background</a>
+            
+            <div class="crucigrama-bns js-hidden">Su navegador no es compatible con esta herramienta.</div>
+        </div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777218206041-hvybky8gh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 4: Podcast divulgativo</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 4: Podcast divulgativo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777218206041-hvybky8gh</odePageId>
+      <odeBlockId>block-1777218233653-ob5ja1fko</odeBlockId>
+      <blockName>Podcast</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777218206041-hvybky8gh</odePageId>
+          <odeBlockId>block-1777218233653-ob5ja1fko</odeBlockId>
+          <odeIdeviceId>idevice-1777218233649-ccjzkscsm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>55:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Individual</dd></div></dl><p>Ahora que ya habéis investigado y conocido algunos ejemplos de especies de microorganismos diferentes que pueden ser beneficiosas o perjudiciales en varios ámbitos de nuestras vidas, debéis elaborar un podcast divulgativo sobre algún dato curioso, evento catastrófico o mito que sea necesario desmentir relacionado con el grupo que os ha tocado investigar.</p>
+<p>El podcast se entregará en la tarea de Teams correspondiente y la evaluación se realizará con la rubrica que aparece a continuación.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777218233649-ccjzkscsm","textInfoDurationInput":"55:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Individual","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>55:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Individual</dd></div></dl><p>Ahora que ya habéis investigado y conocido algunos ejemplos de especies de microorganismos diferentes que pueden ser beneficiosas o perjudiciales en varios ámbitos de nuestras vidas, debéis elaborar un podcast divulgativo sobre algún dato curioso, evento catastrófico o mito que sea necesario desmentir relacionado con el grupo que os ha tocado investigar.</p>\n<p>El podcast se entregará en la tarea de Teams correspondiente y la evaluación se realizará con la rubrica que aparece a continuación.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777218206041-hvybky8gh</odePageId>
+      <odeBlockId>block-1777218352909-a0m6lg6ig</odeBlockId>
+      <blockName>Rúbrica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777218206041-hvybky8gh</odePageId>
+          <odeBlockId>block-1777218352909-a0m6lg6ig</odeBlockId>
+          <odeIdeviceId>idevice-1777218352907-vvzj4csoc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" class="exe-table" style="width: 100%; border-style: solid; float: left;"><caption title=""><a href="https://cedec.intef.es/">CEDEC</a>. Rúbrica para evaluar un pódcast (<a href="https://creativecommons.org/licenses/">CC BY-SA</a>)</caption>
+<tbody>
+<tr>
+<td style="width: 18.5511%;"><br /></td>
+<td style="width: 20.3781%;"><strong>4 Excelente</strong></td>
+<td style="width: 20.3781%;"><strong>3 Satisfactorio</strong></td>
+<td style="width: 20.3781%;"><strong>2 Mejorable</strong></td>
+<td style="width: 20.3781%;"><strong>1 Insuficiente</strong></td>
+</tr>
+<tr>
+<td style="width: 18.5511%;"><strong>Lectura del texto</strong></td>
+<td style="width: 20.3781%;">Lee el texto de manera expresiva y cuidando los rasgos propios de la oralidad (tono, ritmo, entonación, énfasis...). (4)</td>
+<td style="width: 20.3781%;">Lee el texto de manera expresiva y cuidando la mayoría de los rasgos propios de la oralidad (tono, ritmo, entonación, énfasis...). (3)</td>
+<td style="width: 20.3781%;">En la lectura del texto no tiene en cuenta todos los rasgos propios de la oralidad (tono, ritmo, entonación, énfasis...). (2)</td>
+<td style="width: 20.3781%;">En la lectura del texto no tiene en cuenta ninguno de los rasgos propios de la oralidad (tono, ritmo, entonación, énfasis...). (1)</td>
+</tr>
+<tr>
+<td style="width: 18.5511%;"><strong>Análisis y comentario del texto</strong></td>
+<td style="width: 20.3781%;">Demuestra comprender en profundidad el texto, la intención del autor, y es capaz de relacionarlo fácilmente con sus propias emociones y experiencias. (4)</td>
+<td style="width: 20.3781%;">Demuestra comprender las principales ideas y sentimientos expresados en el texto, y es capaz de encontrar relaciones con sus propias emociones y experiencias. (3)</td>
+<td style="width: 20.3781%;">Demuestra comprender algunas de las ideas y sentimientos expresados en el texto, y es capaz de encontrar algunas relaciones con sus propias emociones y experiencias. (2)</td>
+<td style="width: 20.3781%;">Demuestra no comprender la esencia del texto ni la intención del autor. No es capaz de relacionarlo con sus propias emociones y experiencias. (1)</td>
+</tr>
+<tr>
+<td style="width: 18.5511%;"><strong>Manejo de las herramientas digitales de grabación de audio</strong></td>
+<td style="width: 20.3781%;">Usa las herramientas digitales sin ningún problema y aprovecha todas las posibilidades que ofrecen. (4)</td>
+<td style="width: 20.3781%;">Usa las herramientas digitales sin grandes problemas y aprovecha bastante bien las posibilidades que ofrecen. (3)</td>
+<td style="width: 20.3781%;">Usa las herramientas digitales con ayuda y no aprovecha todas las posibilidades que ofrecen. (2)</td>
+<td style="width: 20.3781%;">Tiene bastantes problemas en el uso de las herramientas digitales y no aprovecha sus posibilidades. (1)</td>
+</tr>
+<tr>
+<td style="width: 18.5511%;"><strong>Asunción de tareas</strong></td>
+<td style="width: 20.3781%;">Asume con responsabilidad todas las tareas que le corresponden en la elaboración del pódcast. (4)</td>
+<td style="width: 20.3781%;">Asume con responsabilidad casi todas las tareas que le corresponden en la elaboración del pódcast. (3)</td>
+<td style="width: 20.3781%;">Asume sólo algunas de las tareas que le corresponden en la elaboración del pódcast. (2)</td>
+<td style="width: 20.3781%;">No asume con responsabilidad las tareas que le corresponden en la elaboración del pódcast. (1)</td>
+</tr>
+<tr>
+<td style="width: 18.5511%;"><strong>Participación en el trabajo en equipo</strong></td>
+<td style="width: 20.3781%;">Participa activamente en el equipo aportando ideas y ayudando, cuando lo necesitan, al resto de sus compañeros/as. (4)</td>
+<td style="width: 20.3781%;">Participa bastante activamente en el equipo aportando ideas y ayudando, casi siempre al resto de sus compañeros/as. (3)</td>
+<td style="width: 20.3781%;">Participa por lo general en el equipo y, en ocasiones, ayuda al resto de sus compañeros/as. (2)</td>
+<td style="width: 20.3781%;">Participa poco en el equipo y ofrece poca ayuda al resto de sus compañeros/as. (1)</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777218352907-vvzj4csoc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" class=\"exe-table\" style=\"width: 100%; border-style: solid; float: left;\"><caption title=\"\"><a href=\"https://cedec.intef.es/\">CEDEC</a>. Rúbrica para evaluar un pódcast (<a href=\"https://creativecommons.org/licenses/\">CC BY-SA</a>)</caption>\n<tbody>\n<tr>\n<td style=\"width: 18.5511%;\"><br /></td>\n<td style=\"width: 20.3781%;\"><strong>4 Excelente</strong></td>\n<td style=\"width: 20.3781%;\"><strong>3 Satisfactorio</strong></td>\n<td style=\"width: 20.3781%;\"><strong>2 Mejorable</strong></td>\n<td style=\"width: 20.3781%;\"><strong>1 Insuficiente</strong></td>\n</tr>\n<tr>\n<td style=\"width: 18.5511%;\"><strong>Lectura del texto</strong></td>\n<td style=\"width: 20.3781%;\">Lee el texto de manera expresiva y cuidando los rasgos propios de la oralidad (tono, ritmo, entonación, énfasis...). (4)</td>\n<td style=\"width: 20.3781%;\">Lee el texto de manera expresiva y cuidando la mayoría de los rasgos propios de la oralidad (tono, ritmo, entonación, énfasis...). (3)</td>\n<td style=\"width: 20.3781%;\">En la lectura del texto no tiene en cuenta todos los rasgos propios de la oralidad (tono, ritmo, entonación, énfasis...). (2)</td>\n<td style=\"width: 20.3781%;\">En la lectura del texto no tiene en cuenta ninguno de los rasgos propios de la oralidad (tono, ritmo, entonación, énfasis...). (1)</td>\n</tr>\n<tr>\n<td style=\"width: 18.5511%;\"><strong>Análisis y comentario del texto</strong></td>\n<td style=\"width: 20.3781%;\">Demuestra comprender en profundidad el texto, la intención del autor, y es capaz de relacionarlo fácilmente con sus propias emociones y experiencias. (4)</td>\n<td style=\"width: 20.3781%;\">Demuestra comprender las principales ideas y sentimientos expresados en el texto, y es capaz de encontrar relaciones con sus propias emociones y experiencias. (3)</td>\n<td style=\"width: 20.3781%;\">Demuestra comprender algunas de las ideas y sentimientos expresados en el texto, y es capaz de encontrar algunas relaciones con sus propias emociones y experiencias. (2)</td>\n<td style=\"width: 20.3781%;\">Demuestra no comprender la esencia del texto ni la intención del autor. No es capaz de relacionarlo con sus propias emociones y experiencias. (1)</td>\n</tr>\n<tr>\n<td style=\"width: 18.5511%;\"><strong>Manejo de las herramientas digitales de grabación de audio</strong></td>\n<td style=\"width: 20.3781%;\">Usa las herramientas digitales sin ningún problema y aprovecha todas las posibilidades que ofrecen. (4)</td>\n<td style=\"width: 20.3781%;\">Usa las herramientas digitales sin grandes problemas y aprovecha bastante bien las posibilidades que ofrecen. (3)</td>\n<td style=\"width: 20.3781%;\">Usa las herramientas digitales con ayuda y no aprovecha todas las posibilidades que ofrecen. (2)</td>\n<td style=\"width: 20.3781%;\">Tiene bastantes problemas en el uso de las herramientas digitales y no aprovecha sus posibilidades. (1)</td>\n</tr>\n<tr>\n<td style=\"width: 18.5511%;\"><strong>Asunción de tareas</strong></td>\n<td style=\"width: 20.3781%;\">Asume con responsabilidad todas las tareas que le corresponden en la elaboración del pódcast. (4)</td>\n<td style=\"width: 20.3781%;\">Asume con responsabilidad casi todas las tareas que le corresponden en la elaboración del pódcast. (3)</td>\n<td style=\"width: 20.3781%;\">Asume sólo algunas de las tareas que le corresponden en la elaboración del pódcast. (2)</td>\n<td style=\"width: 20.3781%;\">No asume con responsabilidad las tareas que le corresponden en la elaboración del pódcast. (1)</td>\n</tr>\n<tr>\n<td style=\"width: 18.5511%;\"><strong>Participación en el trabajo en equipo</strong></td>\n<td style=\"width: 20.3781%;\">Participa activamente en el equipo aportando ideas y ayudando, cuando lo necesitan, al resto de sus compañeros/as. (4)</td>\n<td style=\"width: 20.3781%;\">Participa bastante activamente en el equipo aportando ideas y ayudando, casi siempre al resto de sus compañeros/as. (3)</td>\n<td style=\"width: 20.3781%;\">Participa por lo general en el equipo y, en ocasiones, ayuda al resto de sus compañeros/as. (2)</td>\n<td style=\"width: 20.3781%;\">Participa poco en el equipo y ofrece poca ayuda al resto de sus compañeros/as. (1)</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777219870864-ko109rdrm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 5: Puesta en común y evaluación</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 5: Puesta en común y evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777219870864-ko109rdrm</odePageId>
+      <odeBlockId>block-1777219890563-z9h394glc</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777219870864-ko109rdrm</odePageId>
+          <odeBlockId>block-1777219890563-z9h394glc</odeBlockId>
+          <odeIdeviceId>idevice-1777219890561-5wzl313x1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>5:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Grupos de 3</dd></div></dl><p>Como actividad de cierre, cada grupo debe mostrar en el aula la infografía que ha creado y exponer los contenidos principales de la misma.</p>
+<p>Después de esta exposición, el alumnado realizará la coevaluación y autoevaluación de dichas infografías mediante la siguiente rúbrica.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777219890561-5wzl313x1","textInfoDurationInput":"5:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Grupos de 3","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>5:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Grupos de 3</dd></div></dl><p>Como actividad de cierre, cada grupo debe mostrar en el aula la infografía que ha creado y exponer los contenidos principales de la misma.</p>\n<p>Después de esta exposición, el alumnado realizará la coevaluación y autoevaluación de dichas infografías mediante la siguiente rúbrica.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777219870864-ko109rdrm</odePageId>
+      <odeBlockId>block-1777219939776-v7gbh17eg</odeBlockId>
+      <blockName>Rúbrica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777219870864-ko109rdrm</odePageId>
+          <odeBlockId>block-1777219939776-v7gbh17eg</odeBlockId>
+          <odeIdeviceId>idevice-1777219939774-1gnigr38w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" class="exe-table" style="width: 100%; border-style: solid; float: left;"><caption title=""><a href="https://cedec.intef.es/">CEDEC</a>. Rúbrica para evaluar una infografía (<a href="https://creativecommons.org/licenses/">CC BY-SA</a>)</caption>
+<tbody>
+<tr>
+<td style="width: 19.9694%;"><br /></td>
+<td style="width: 19.9694%;"><strong>4 Excelente</strong></td>
+<td style="width: 19.9694%;"><strong>3 Satisfactorio</strong></td>
+<td style="width: 19.9694%;"><strong>2 Mejorable</strong></td>
+<td style="width: 19.974%;"><strong>1 Insuficiente</strong></td>
+</tr>
+<tr>
+<td style="width: 19.9694%;"><strong>Patrón organizativo</strong></td>
+<td style="width: 19.9694%;">Están presentes todos los elementos propios de una infografía (título, cuerpo, fuentes y créditos), existe un equilibrio perfecto entre el texto y la imagen. (4)</td>
+<td style="width: 19.9694%;">Están presentes todos los elementos propios de una infografía (título, cuerpo, fuentes y créditos), la información visual y textual están bastante bien equilibradas. (3)</td>
+<td style="width: 19.9694%;">Falta alguno de los elementos característicos de una infografía (título, cuerpo, fuentes o créditos) y/o no existe un buen equilibrio entre la información visual y textual. (2)</td>
+<td style="width: 19.974%;">Solo presenta uno o dos de los elementos propios de una infografía (título, cuerpo, fuentes o créditos) y/o la información visual y textual no está equilibrada. (1)</td>
+</tr>
+<tr>
+<td style="width: 19.9694%;"><strong>Diseño</strong></td>
+<td style="width: 19.9694%;">La información está distribuida de una manera visualmente muy atractiva, la combinación de colores es muy armónica y la tipografía empleada es legible y muy apropiada. (4)</td>
+<td style="width: 19.9694%;">La información está distribuida de una manera visualmente bastante atractiva, la combinación de colores es adecuada y la tipografía empleada es legible y apropiada. (3)</td>
+<td style="width: 19.9694%;">La información está distribuida de una manera visualmente poco atractiva, los colores no se combinan de una manera demasiado armónica y/o la tipografía no es la más apropiada. (2)</td>
+<td style="width: 19.974%;">La información está distribuida de una visualmente nada atractiva, los colores no se combinan de manera armónica y/o la tipografía empleada es inapropiada y poco legible. (1)</td>
+</tr>
+<tr>
+<td style="width: 19.9694%;"><strong>Contenido</strong></td>
+<td style="width: 19.9694%;">En la infografía aparecen recogidos con mucha claridad todos y cada uno de los conceptos e ideas claves del tema. (4)</td>
+<td style="width: 19.9694%;">En la infografía aparecen recogidas con bastante claridad todas o la mayor parte de las ideas claves del tema. (3)</td>
+<td style="width: 19.9694%;">En la infografía no aparecen recogidas todas las ideas claves del tema pero sí las más relevantes. (2)</td>
+<td style="width: 19.974%;">En la infografía no se reflejan la mayor parte de las ideas fundamentales del tema. (1)</td>
+</tr>
+<tr>
+<td style="width: 19.9694%;"><strong>Elementos visuales</strong></td>
+<td style="width: 19.9694%;">Todas las imágenes empleadas tienen licencia CC, poseen unas dimensiones perfectas y apoyan con total claridad el mensaje que se quiere transmitir. (4)</td>
+<td style="width: 19.9694%;">Todas las imágenes empleadas tienen una licencia CC, poseen unas dimensiones adecuadas y apoyan con claridad el mensaje que se quiere transmitir. (3)</td>
+<td style="width: 19.9694%;">No todas las imágenes empleadas tienen licencia CC. Además, alguna de ellas no posee las dimensiones adecuadas y/o no apoya de una manera clara el mensaje que se quiere transmitir. (2)</td>
+<td style="width: 19.974%;">La mayor parte de las imágenes no tienen licencia CC, no poseen unas dimensiones adecuadas y no se adecúan al mensaje que se quiere transmitir. (1)</td>
+</tr>
+<tr>
+<td style="width: 19.9694%;"><strong>Corrección lingüística</strong></td>
+<td style="width: 19.9694%;">No se aprecian errores ortográficos, morfosintácticos ni de puntuación. (4)</td>
+<td style="width: 19.9694%;">Aparecen uno o dos errores ortográficos, morfosintácticos o de puntuación. (3)</td>
+<td style="width: 19.9694%;">Aparecen tres o cuatro errores ortográficos, morfosintácticos o de puntuación. (2)</td>
+<td style="width: 19.974%;">Aparecen cinco o más errores ortográficos, morfosintácticos o de puntuación. (1)</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777219939774-1gnigr38w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" class=\"exe-table\" style=\"width: 100%; border-style: solid; float: left;\"><caption title=\"\"><a href=\"https://cedec.intef.es/\">CEDEC</a>. Rúbrica para evaluar una infografía (<a href=\"https://creativecommons.org/licenses/\">CC BY-SA</a>)</caption>\n<tbody>\n<tr>\n<td style=\"width: 19.9694%;\"><br /></td>\n<td style=\"width: 19.9694%;\"><strong>4 Excelente</strong></td>\n<td style=\"width: 19.9694%;\"><strong>3 Satisfactorio</strong></td>\n<td style=\"width: 19.9694%;\"><strong>2 Mejorable</strong></td>\n<td style=\"width: 19.974%;\"><strong>1 Insuficiente</strong></td>\n</tr>\n<tr>\n<td style=\"width: 19.9694%;\"><strong>Patrón organizativo</strong></td>\n<td style=\"width: 19.9694%;\">Están presentes todos los elementos propios de una infografía (título, cuerpo, fuentes y créditos), existe un equilibrio perfecto entre el texto y la imagen. (4)</td>\n<td style=\"width: 19.9694%;\">Están presentes todos los elementos propios de una infografía (título, cuerpo, fuentes y créditos), la información visual y textual están bastante bien equilibradas. (3)</td>\n<td style=\"width: 19.9694%;\">Falta alguno de los elementos característicos de una infografía (título, cuerpo, fuentes o créditos) y/o no existe un buen equilibrio entre la información visual y textual. (2)</td>\n<td style=\"width: 19.974%;\">Solo presenta uno o dos de los elementos propios de una infografía (título, cuerpo, fuentes o créditos) y/o la información visual y textual no está equilibrada. (1)</td>\n</tr>\n<tr>\n<td style=\"width: 19.9694%;\"><strong>Diseño</strong></td>\n<td style=\"width: 19.9694%;\">La información está distribuida de una manera visualmente muy atractiva, la combinación de colores es muy armónica y la tipografía empleada es legible y muy apropiada. (4)</td>\n<td style=\"width: 19.9694%;\">La información está distribuida de una manera visualmente bastante atractiva, la combinación de colores es adecuada y la tipografía empleada es legible y apropiada. (3)</td>\n<td style=\"width: 19.9694%;\">La información está distribuida de una manera visualmente poco atractiva, los colores no se combinan de una manera demasiado armónica y/o la tipografía no es la más apropiada. (2)</td>\n<td style=\"width: 19.974%;\">La información está distribuida de una visualmente nada atractiva, los colores no se combinan de manera armónica y/o la tipografía empleada es inapropiada y poco legible. (1)</td>\n</tr>\n<tr>\n<td style=\"width: 19.9694%;\"><strong>Contenido</strong></td>\n<td style=\"width: 19.9694%;\">En la infografía aparecen recogidos con mucha claridad todos y cada uno de los conceptos e ideas claves del tema. (4)</td>\n<td style=\"width: 19.9694%;\">En la infografía aparecen recogidas con bastante claridad todas o la mayor parte de las ideas claves del tema. (3)</td>\n<td style=\"width: 19.9694%;\">En la infografía no aparecen recogidas todas las ideas claves del tema pero sí las más relevantes. (2)</td>\n<td style=\"width: 19.974%;\">En la infografía no se reflejan la mayor parte de las ideas fundamentales del tema. (1)</td>\n</tr>\n<tr>\n<td style=\"width: 19.9694%;\"><strong>Elementos visuales</strong></td>\n<td style=\"width: 19.9694%;\">Todas las imágenes empleadas tienen licencia CC, poseen unas dimensiones perfectas y apoyan con total claridad el mensaje que se quiere transmitir. (4)</td>\n<td style=\"width: 19.9694%;\">Todas las imágenes empleadas tienen una licencia CC, poseen unas dimensiones adecuadas y apoyan con claridad el mensaje que se quiere transmitir. (3)</td>\n<td style=\"width: 19.9694%;\">No todas las imágenes empleadas tienen licencia CC. Además, alguna de ellas no posee las dimensiones adecuadas y/o no apoya de una manera clara el mensaje que se quiere transmitir. (2)</td>\n<td style=\"width: 19.974%;\">La mayor parte de las imágenes no tienen licencia CC, no poseen unas dimensiones adecuadas y no se adecúan al mensaje que se quiere transmitir. (1)</td>\n</tr>\n<tr>\n<td style=\"width: 19.9694%;\"><strong>Corrección lingüística</strong></td>\n<td style=\"width: 19.9694%;\">No se aprecian errores ortográficos, morfosintácticos ni de puntuación. (4)</td>\n<td style=\"width: 19.9694%;\">Aparecen uno o dos errores ortográficos, morfosintácticos o de puntuación. (3)</td>\n<td style=\"width: 19.9694%;\">Aparecen tres o cuatro errores ortográficos, morfosintácticos o de puntuación. (2)</td>\n<td style=\"width: 19.974%;\">Aparecen cinco o más errores ortográficos, morfosintácticos o de puntuación. (1)</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777220417856-ckt5adp27</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descarga este eXe</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descarga este eXe</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777220417856-ckt5adp27</odePageId>
+      <odeBlockId>block-1777220508757-021h2go5t</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777220417856-ckt5adp27</odePageId>
+          <odeBlockId>block-1777220508757-021h2go5t</odeBlockId>
+          <odeIdeviceId>idevice-1777220508755-c5d8gf9xo</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SdA Conviviendo con microorganismos</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de aprendizaje</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Lucía Méndez Gayol</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777220541561-elextz8i0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Atribución Creative Commons</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atribución Creative Commons</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777220541561-elextz8i0</odePageId>
+      <odeBlockId>block-1777220556386-9t6wfu0my</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777220541561-elextz8i0</odePageId>
+          <odeBlockId>block-1777220556386-9t6wfu0my</odeBlockId>
+          <odeIdeviceId>idevice-1777220556384-814yqcg8a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://creativecommons.org/licenses/by-sa/4.0/" title="">Creative Commons</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777220556384-814yqcg8a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" title=\"\">Creative Commons</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
